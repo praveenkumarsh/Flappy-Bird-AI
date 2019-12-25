@@ -3,3 +3,4 @@ pygame
 neat-python
 graphviz
 matplotlib
+tk
